@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;700&display=swap');
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Roboto Mono', sans-serif;
+  font-size:2vh;
+  line-height:.5vh;
+}
+#inputField {
+  display:flex;
+};
